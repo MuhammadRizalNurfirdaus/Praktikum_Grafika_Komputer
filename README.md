@@ -5,7 +5,7 @@ Repositori ini berisi materi dan kode untuk Praktikum Mata Kuliah Grafika Komput
 ## Struktur Folder
 
 - `Modul_1/`
-  - `praktikum1.py`, `praktikum2.py`, `praktikum3.py`, `posttest.ipynb`, `praktikum4.ipynb`, `tugas.ipynb`
+  - `praktikum1.py`, `praktikum2.py`, `praktikum3.py`, `praktikum4.ipynb`, `posttest.ipynb`, `tugas.ipynb`
 - `Modul_2/`
   - `Praktikum21.ipynb`
 - `Modul_3/`
@@ -18,6 +18,12 @@ Repositori ini berisi materi dan kode untuk Praktikum Mata Kuliah Grafika Komput
   - `Praktikum6.ipynb`, `Tugas.ipynb`
 - `Modul_7/`
   - `Praktikum7.ipynb`, `tugas.ipynb`
+- `Modul_8/`
+  - `Praktikum8.ipynb`, `tugas.ipynb`
+- `Modul_9/`
+  - `Praktikum.ipynb`, `tugas.ipynb`
+- `Modul_10/`
+  - `Praktikum.ipynb`, `tugas.ipynb`
 - `Teori/`
   - `TugasDDAdanBressenhem.ipynb`
 
